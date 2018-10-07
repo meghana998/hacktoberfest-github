@@ -1,2 +1,2 @@
 # hacktoberfest-github
-this first new  hacktoberfest at gvp
+this first ever  hacktoberfest at gvp
